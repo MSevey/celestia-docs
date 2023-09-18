@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcelestia_docs=self.webpackChunkcelestia_docs||[]).push([[5963],{738:e=>{e.exports=JSON.parse('{"title":"Specifications","slug":"/category/specifications","permalink":"/pr-preview/pr-2/category/specifications","navigation":{"previous":{"title":"Submitting data blobs to Celestia","permalink":"/pr-preview/pr-2/learn/submit-data"}}}')}}]);
