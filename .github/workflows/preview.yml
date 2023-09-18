@@ -31,3 +31,4 @@ jobs:
           source-dir: ./build/
           deploy-repository: MSevey/celestia-docs-previews
           preview-branch: main
+          token: ${{PREVIEW_TOKEN}}
