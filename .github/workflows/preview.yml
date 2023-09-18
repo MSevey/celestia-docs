@@ -29,5 +29,5 @@ jobs:
         uses: rossjrw/pr-preview-action@v1
         with:
           source-dir: ./build/
-          deploy-repository: MSevey/celestia-docs-preview
+          deploy-repository: MSevey/celestia-docs-previews
           preview-branch: main
